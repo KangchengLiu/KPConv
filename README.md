@@ -1,7 +1,7 @@
 
 ![Intro figure](https://github.com/HuguesTHOMAS/KPConv/blob/master/doc/Github_intro.png)
 
-Created by Hugues THOMAS
+Created by Hugues THOMAS, Adapted by Kangcheng Liu
 
 ## Introduction
 
